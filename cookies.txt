@@ -1,0 +1,21 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+kenkoback.com	TRUE	/	FALSE	1999999999	_landing_page	%2Fproducts%2Forthopedic-back-stretcher
+.afterpay.com	TRUE	/	FALSE	1999999999	__cf_bm	DzUyxgt6ic8CMzSOZDfFZA_rf9Hygh0RFA4cX6dyZHg-1677097377-0-AUscCoamco09BLzLwruvL05TnI8vkyzEiF4fY0yrmtou0UwlT9cb/nrRooqzgyhm7WmDC1BExAZuQQVywhvFlsIKyA3ufs1veOUQVpR9nt0g
+js.afterpay.com	TRUE	/	FALSE	1999999999	SameSite	None
+shopoe.net	TRUE	/	FALSE	1999999999	cross-site-cookie	name
+shopoe.net	TRUE	/	FALSE	1999999999	SameSite	None
+kenkoback.com	TRUE	/	FALSE	1999999999	_cmp_a	%7B%22purposes%22%3A%7B%22a%22%3Afalse%2C%22p%22%3Afalse%2C%22m%22%3Afalse%2C%22t%22%3Afalse%7D%2C%22display_banner%22%3Atrue%2C%22merchant_geo%22%3A%22US%22%2C%22sale_of_data_region%22%3Afalse%7D
+.vimeo.com	TRUE	/	FALSE	1999999999	__cf_bm	PmEB_6ZqQ7Ai9.Jm1ER9qfTEvg4CuSFuvMERh8QFdws-1677097499-0-ASv/KvtMAgHYrkDLYDeVlFlAQf9f6zB514V/+2ciD7eNF8XJlQp7d5uS0cHm9yMAKe477hSQNDJ9BY4Fdk6hIXk=
+player.vimeo.com	TRUE	/	FALSE	1999999999	SameSite	None
+.info.kenkoback.com	TRUE	/	FALSE	1999999999	__cf_bm	2ZguDhyg4ftxfXbQa5WkDTeDMyH2QOukHaJNAlnEJKI-1677097763-0-ARkO1kij1x0t/umiJrBD3QYHqwvJCk31vhAOhrKtgRvtny+VFov2ghEEV1UC1bzVODZ01vAJpHYIvVgPvZZAYk0NU4XWXKbNNubSJG5/iCkB
+info.kenkoback.com	TRUE	/	FALSE	1999999999	SameSite	None
+www.kenkoback.com	TRUE	/	FALSE	1999999999	localization	GB
+www.kenkoback.com	TRUE	/	FALSE	1999999999	cart_currency	GBP
+kenkoback.com	TRUE	/	FALSE	1999999999	_y	02e80461-2208-4efb-8dae-e77854ac2c1a
+kenkoback.com	TRUE	/	FALSE	1999999999	_s	76fb70fa-d8b8-4aed-94a6-fd85ed24b3c8
+kenkoback.com	TRUE	/	FALSE	1999999999	_shopify_y	02e80461-2208-4efb-8dae-e77854ac2c1a
+www.kenkoback.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+kenkoback.com	TRUE	/	FALSE	1999999999	_shopify_s	76fb70fa-d8b8-4aed-94a6-fd85ed24b3c8
+www.kenkoback.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+

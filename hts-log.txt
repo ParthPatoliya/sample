@@ -1,0 +1,21 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 22 Feb 2023 20:22:45 at https://www.kenkoback.com/products/orthopedic-back-stretcher +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.kenkoback.com/products/orthopedic-back-stretcher -O1 "C:\My Web Sites\back stretcher" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:23:37	Error: 	"Not Found" (404) at link https://www.kenkoback.com/products/GET (from https://www.kenkoback.com/products/orthopedic-back-stretcher)
+20:23:37	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://www.kenkoback.com/products/orthopedic-back-stretcher)
+20:23:38	Error: 	"Not Found" (404) at link https://www.kenkoback.com/products/{{productHandle}}.js (from https://www.kenkoback.com/products/orthopedic-back-stretcher)
+20:23:38	Error: 	"Not Found" (404) at link https://www.kenkoback.com/products/freegifts_20220309.min.js (from https://www.kenkoback.com/products/orthopedic-back-stretcher)
+20:24:19	Error: 	"Not Found" (404) at link https://www.kenkoback.com/products/POST (from https://www.kenkoback.com/products/orthopedic-back-stretcher)
+20:31:32	Error: 	"Forbidden" (403) at link https://info.kenkoback.com/hosted/images/5b/a44daa645343e7b8c808a2b4c4c5ad/1201386235968598---WNW-Pty-LTD---1x1---GS---1.02_2.gif (from https://www.kenkoback.com/products/ems-device)
+20:31:32	Error: 	"Forbidden" (403) at link https://info.kenkoback.com/hosted/images/ea/1944d9776f48988800087b8fa742fe/1201386235968598---WNW-Pty-LTD---1x1---GS---2.01_2.gif (from https://www.kenkoback.com/products/ems-device)
+20:31:32	Error: 	"Forbidden" (403) at link https://info.kenkoback.com/hosted/images/2f/440623702c4ca89121b8a48b852bc3/1201386235968598---WNW-Pty-LTD---1x1---GS---4.02_2.gif (from https://www.kenkoback.com/products/ems-device)
+20:31:32	Error: 	"Not Found" (404) at link https://help.shopify.com/assets/manual/customize/soldout-3f7d3ae48a2dd818b6a20b2178586fe6cc6d0a2f2126f51513dca768b1b26509.png (from https://d1um8515vdn9kb.cloudfront.net/files/vendor.css?refresh=1)
+20:31:32	Error: 	"Forbidden" (403) at link https://d1um8515vdn9kb.cloudfront.net/libs/css/{ $owl-image-path } owl.video.play.png (from https://d1um8515vdn9kb.cloudfront.net/libs/css/owl.carousel.min.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 8 minutes 47 seconds : 798 links scanned, 787 files written (83667256 bytes overall) [59985098 bytes received at 113823 bytes/sec], 32108516 bytes transferred using HTTP compression in 181 files, ratio 19%, 7.9 requests per connection
+(10 errors, 0 warnings, 0 messages)
